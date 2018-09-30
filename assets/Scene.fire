@@ -41,8 +41,8 @@
     },
     "_scale": {
       "__type__": "cc.Vec3",
-      "x": 0.4031087239583292,
-      "y": 0.4031087239583292,
+      "x": 0.24472627524261167,
+      "y": 0.24472627524261167,
       "z": 1
     },
     "_quat": {
@@ -444,7 +444,7 @@
     "_position": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": -680,
+      "y": -780,
       "z": 0
     },
     "_scale": {
@@ -531,7 +531,7 @@
     "_left": 0,
     "_right": 0,
     "_top": 0,
-    "_bottom": -200,
+    "_bottom": -300,
     "_verticalCenter": 0,
     "_horizontalCenter": 0,
     "_isAbsLeft": true,
@@ -2434,7 +2434,7 @@
     "gameOverPanel": {
       "__id__": 39
     },
-    "bulletRevertSpeed": 0.8,
+    "bulletRevertSpeed": 0.85,
     "bulletCountLabel": {
       "__id__": 22
     },
